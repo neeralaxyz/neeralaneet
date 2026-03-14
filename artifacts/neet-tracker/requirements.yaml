@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "Required for ultra-smooth floating animations, page transitions, and spring physics"
+  "lucide-react": "Required for modern sleek icons"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging tailwind classes safely"
+  "date-fns": "For date formatting and streak date math"
+
+notes:
+  - This app is fully contained within the browser using localStorage.
+  - No backend API is required.
